@@ -1,0 +1,32 @@
+.background{
+    height: 100%;
+    position:relative;
+}
+
+img{
+    max-width: 100%;
+    width: 100%;
+    display: block;
+}
+
+.titre{
+    background-color: #ffe1bf;
+    position: relative; 
+    bottom: -100%;
+    right: -130%;
+    width: 400px; 
+    height: 150px;
+}
+
+.ecriture-rouge{
+    color: #f21031;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.carre{
+    max-width: 1000px; 
+    margin:auto; 
+    height: 100%; 
+    position: absolute;
+}
